@@ -3,7 +3,7 @@
 ## Introduction
 This is a 3d printable case for the Icebreaker FPGA board version 1.0c as sold here: https://www.crowdsupply.com/1bitsquared/icebreaker-fpga . 
 
-![]("Icebreaker Case.jpg")
+![](IcebreakerCase.jpg)
 
 ## Assumptions
 This case was made for an icebreaker board with the PMOD part removed, a RGB led installed and all headers except CRESET soldered. 
