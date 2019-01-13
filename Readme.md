@@ -6,8 +6,10 @@ This is a 3d printable case for the Icebreaker FPGA board version 1.0c as sold h
 ![](IcebreakerCase.jpg)
 
 ## Assumptions
-This case was made for an icebreaker board with the PMOD part removed, a RGB led installed and all headers except CRESET soldered. 
+This case was made for an icebreaker board with the PMOD part removed, a RGB led installed and all headers except CRESET soldered.
 The case was modeled in Fusion 360 and archive files plus possible export formats are included. For 3d printing STL files were generated.
+
+If you have already soldered CRESET, there is an untested cover in the Extra folder. If you don't want to remove the PMOD part, you can remove a bit of the edge on the bottom part. This is not reccomended, as it makes it much more likely to snap it off by accident.
 
 ## Tools and parts needed
 * A well adjusted 3d printer
